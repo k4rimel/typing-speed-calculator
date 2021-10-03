@@ -1,0 +1,24 @@
+#texte-a-taper {
+    background-color: #E2E2E2;
+    font-family: 'Courier New', Courier, monospace;
+    width: 500px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    padding: 10px;
+}
+#log {
+    background-color: rgb(243, 83, 83);
+    color: #fff;
+    height: 300px;
+    width: 200px;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+#chaineIncorrecte {
+    color: red;
+}
+
+#chaineCorrecte {
+    color: green;
+}
